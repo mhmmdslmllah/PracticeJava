@@ -23,7 +23,7 @@ public class TestInstitute {
 		columbiaUniversity.caring();
 		columbiaUniversity.compurtLab();
 		columbiaUniversity.columbiaBranch2();//       we can call a static method branch 2 from ColumbiuaUniversity. but it is giving us warning.
-		
+		ColumbiaUniversity.columbiaBranch2();//      we can call a static method from a regular class by the class name.
 		
 		
 		
